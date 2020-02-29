@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Data_files/Scenes/gcard_scene.unity
+  isLoaded: 1
+  isActive: 1
